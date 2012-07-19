@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Import Dreamweaver .ste files",
+        "command": "dw_site_importer"
+    }
+]
